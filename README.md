@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raju kumar</h1>
 <h3 align="center">A passionate Full Stack Developer and technology enthusiast, constantly exploring new technologies and working on exciting projects.</h3>
-<img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif">
-
+<!-- <img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif"  width="200px" height="300px" align="right" ><br> -->
+- <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="400px" height="500px" align="right">
 - 🔭 I’m currently studying at **MCA at NIT Jamshedpur.**
 
 - 🌱 I’m currently learning **DSA, web development**
@@ -9,8 +9,10 @@
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/raju-kumar-aa910528a/](https://www.linkedin.com/in/raju-kumar-aa910528a/)
 
 - 💬 Ask me about **C++, DSA, HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**
+- 
 
 - 📫 How to reach me **rajukumarnitian@gmail.com**
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/122LRYllIiR8GRjn1aXI9etXe8wEFsxxS/view?usp=sharing](https://drive.google.com/file/d/122LRYllIiR8GRjn1aXI9etXe8wEFsxxS/view?usp=sharing)
 
@@ -28,6 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar123raju&show_icons=true&locale=en&layout=compact" alt="kumar123raju" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumar123raju&show_icons=true&locale=en" alt="kumar123raju" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar123raju&" alt="kumar123raju" /></p>
 
