@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raju kumar</h1>
 <h3 align="center">A passionate Full Stack Developer and technology enthusiast, constantly exploring new technologies and working on exciting projects.</h3>
-<img src="https://media.giphy.com/media/NsBknNwmmWE8WU1q2U/giphy.gif">
+<img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif">
+
 - 🔭 I’m currently studying at **MCA at NIT Jamshedpur.**
 
 - 🌱 I’m currently learning **DSA, web development**
